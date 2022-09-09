@@ -1,4 +1,5 @@
 b) Se for no início, coloca o anterior do início como o novo e o início como
 novo. E se for no fim o próximo depois do fim vira o novo e o fim recebe o novo
 
-c) na classe Lista, é necessario o 2 ponteiros, o ponteiro Inicio e o Ponteiro Fim
+c) Na classe Lista, é necessario o 2 ponteiros, o ponteiro Inicio e o Ponteiro Fim.
+Na classe No, é necessario o 2 ponteiros, o ponteiro Anterior e o Ponteiro Proximo.
